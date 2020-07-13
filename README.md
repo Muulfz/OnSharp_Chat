@@ -1,7 +1,7 @@
 # OnSharp_Chat
 OnSharp_Chat is a C# Plugin for the [OnSharp](https://github.com/OnsharpTeam/Onsharp).
 
-# Exemple
+# Example
 ![Screenshot](https://i.gyazo.com/1d46defb3b94b1af89721a873aae9582.png)
 
 ## Documentations
